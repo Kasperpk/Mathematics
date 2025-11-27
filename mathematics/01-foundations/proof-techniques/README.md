@@ -22,9 +22,10 @@ Prove P by assuming ¬P and deriving a contradiction.
 
 *Proof*: Assume √2 is rational. Then √2 = a/b where a,b are integers with no common factors.
 Squaring: 2 = a²/b², so a² = 2b².
-This means a² is even, so a is even: a = 2k.
+This means a² is even, so a is even: a = 2k for some integer k.
 Then (2k)² = 2b², so 4k² = 2b², thus b² = 2k².
-This means b is also even, contradicting that a,b have no common factors. ∎
+Since b² = 2k², b² is even, which means b is also even.
+This contradicts our assumption that a,b have no common factors. ∎
 
 ### 3. Mathematical Induction
 

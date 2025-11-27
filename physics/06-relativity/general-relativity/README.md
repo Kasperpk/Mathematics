@@ -20,9 +20,14 @@ General relativity is Einstein's theory of gravitation, describing gravity not a
 - Riemann curvature tensor
 
 ### Einstein Field Equations
-G_μν + Λg_μν = (8πG/c⁴)T_μν
-- Relates geometry to matter/energy
-- Cosmological constant
+```
+Gμν + Λgμν = (8πG/c⁴)Tμν
+```
+- Relates spacetime geometry (left side) to matter/energy (right side)
+- Gμν: Einstein tensor
+- Λ: Cosmological constant
+- gμν: Metric tensor
+- Tμν: Stress-energy tensor
 
 ### Solutions
 - Schwarzschild (non-rotating black hole)
