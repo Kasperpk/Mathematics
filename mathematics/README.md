@@ -74,6 +74,12 @@ Number Theory     Algebra       Analysis
                   Applied Mathematics
 ```
 
+## Books
+
+### [Books](./books/)
+Textbook study notes and exercises.
+- **Mathematical Thinking: Problem-Solving and Proofs** — proof techniques, logic, sets, functions
+
 ## Learning Path
 
 1. Master set theory and logic first
