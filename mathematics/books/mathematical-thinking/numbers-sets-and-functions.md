@@ -28,9 +28,70 @@ The equation $x^2 + bx + c = 0$ has exactly one solution when the equation only 
 ## 1.3
 Given that $x+y = 100$, what is the maximum value of $xy$?
 
+If we substitude $y = 100 - x$ so $xy = x(100 -x) = 100x - x^2$. Then we take the derivate, set to 0, that is $100 - 2x = 0$ which equals $x=50$
+
+
 Somehow i know it's 2500 when $x=50$ and $y=50$ but i am not sure how to logically prove it other than showing the result of very possible multiplication. 
+
+
 
 ## 1.4 
 Explain why the square has the largest area among all rectangles with a given perimeter. 
 
 The square the is geometric shape which presevere most of the area whereas circles for example reduce the area more. 
+
+## 1.5 
+
+Consider the Celcius (C) and Fahrenheit (F) temperature scales. 
+
+![alt text](image.png)
+
+Express the sentence "The temperature was 10 C and increased by 20 C using the Fahrenheit scale"
+
+"The temperature was 50 F and increased by 36 F". 
+
+## 1.6 
+At a given moment, let *f* and *c* be the value of the temperature on the Fahrenheit and Celsius scales, respectively. These values are related by $f = (9/5)c + 32$. 
+
+At what temperatures do the following events occur?
+
+1. The Fahrenheit and Celsius values of the temperature are equal.
+2. The Fahrenheit value is the negative of the Celsius value
+3. The Fahrenheit value is twice the Celsius value
+
+To calculate this we might set $c= 0$ and then isolate $c$ to find the answer. 
+
+$f = (9/5)0 + 32$
+
+$f = 32$
+
+For 1) That means every time $f-c = 32$ then the temperatures are the same. 
+
+For 2) i don't see whenevner the Fahrenheit should be negative if C is not. 
+$-5 = (9/5) + 32$
+
+For 3) when $2c = (9/5)c + 32$ to solve for $c$ here we first move 32 so we have 
+$-32 + 2c = (9/5)c$ 
+
+$(-32)/c + (2c)/c = (9/5)$.  
+
+$(-32)/c + 2 = (9/5)$ 
+
+$c + 2 = (9/5)*-32$ 
+
+$c + 2 = -57,6$
+
+$c = -59,6$ 
+
+So when $c$ is -59,6 then $f$ is twice the Celsius value. We can check that by plotting it into the original equation. 
+
+$f = (9/5)-59,6 + 32$ 
+
+
+## 1.17 
+What are the domain and the image of the absolute value function?
+
+The domain is the set of real numbers from negative infinity to infinity and the image is the set of positive integers. 
+
+# 1.18
+S
