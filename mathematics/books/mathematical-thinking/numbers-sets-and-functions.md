@@ -94,4 +94,29 @@ What are the domain and the image of the absolute value function?
 The domain is the set of real numbers from negative infinity to infinity and the image is the set of positive integers. 
 
 # 1.18
-S
+Determmine which real numbers exceed their reciprocals by exactly 1. 
+
+# 1.19
+What are the dimensions of a rectangular carpet with perimeter 48 feet and area 108 square feet? Given positive numbers *p* and *a*, under what conditions does there exist a rectangular carpet with perimeter *p* and area *a*? 
+
+So we have that the sides *a*, *b* that make up the rectangle together are 48 feet so we have that 
+
+That gives us the following two equations. 
+
+$2a + 2b = 48$ and $a * b = 108$. 
+
+We want to try and isolate one of the variables and then substitute that into the area equation. we do that as follows
+
+![alt text](image-1.png)
+
+So we find that the dimensions are 6 ft and 18 ft which yields $p = 2(6) + 2(18) = 48$ and an area $a = 6 * 18 = 108$. 
+
+The questions also asks under which conditions does there exist a rectangular carpet with perimeter *p* and area *a*? To find that we can create a general condition by replacing 48 with $p$ and 108 with $a$. Which yields
+
+$b^2 - \frac p 2 b + a = 0$
+
+When the descriminant is non-negative this yields real postiive solutions 
+
+$(\frac p 2)^2 - 4a \ge 0 \rightarrow p^2 \ge 16a$
+
+So that a rectangular carpet with perimeter $p$ and area $a$ exists when $p^2 \ge 16a$ and equally $p^2 = 16a$ gives a square. 
