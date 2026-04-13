@@ -120,3 +120,15 @@ When the descriminant is non-negative this yields real postiive solutions
 $(\frac p 2)^2 - 4a \ge 0 \rightarrow p^2 \ge 16a$
 
 So that a rectangular carpet with perimeter $p$ and area $a$ exists when $p^2 \ge 16a$ and equally $p^2 = 16a$ gives a square. 
+
+
+# 1.20 
+Suppose that $r$ and $s$ are distinct real solutions of equation $ax^2 + bx + c = 0$ in terms of $a$, $b$, $c$ obtain formulas for $r + s$ and $rs$. 
+
+When we look at a simpler quadratic equation like this one below it seems that the sum and product of two solutions equal the value of the coefficients in the original function, here 5 and 6. 
+
+![alt text](image-2.png)
+
+In this example the quadratic equation has coefficient $a = 1$ because the coefficient of $x^2$ is 1. In the general case which this problem asks about $a$ might not be 1 in $ax^2 + bx + c = 0$. To obtain the formulas we can use the **Veita's formulas** which state that
+
+$r + s = \frac {-b} a$, $r * s = \frac c/a$ that means when we introduce coefficients for $a$ we simply divide the coeffiecient for $b$ and $c$ by $a$. 
