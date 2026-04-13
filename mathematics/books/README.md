@@ -8,3 +8,8 @@ Textbook study notes organized by book.
 *Chartrand, Polimeni, Zhang*
 
 Covers proof techniques, logic, set theory, functions, and number theory — the foundations of mathematical reasoning.
+
+### The art and craft of problem solving
+*Paul Zeitz*
+
+Covers problem solving abilities in mathematics
