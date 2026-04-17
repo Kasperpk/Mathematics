@@ -12,3 +12,5 @@ $\dfrac{(x+3)^2}{25}+\dfrac{(y-1)^2}{16}=1$
 What is it's center? 
 
 First i want to find the 
+
+
