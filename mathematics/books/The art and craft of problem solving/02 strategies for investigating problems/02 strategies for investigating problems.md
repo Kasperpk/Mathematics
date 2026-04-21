@@ -74,3 +74,25 @@ $a_{m+n} + a_{m-n} = \frac 1 2 (a_{2m}+a_{2n})$
 Let me try to plug in some numbers say $m = 0, n = 0$ here we then have $a_{0+0} + a_{0+0} = \frac 1 2 (a_0 + a_0)$. This yields $2a_0 = a_0$ and this can only work if $a_0 = 0$ otherwise the equality would not hold. The next thing we might do to get our hands dirty is to try $m = 1, n = 0$ where we get $a_1 + a_1 = \frac 1 2 (a_2 + a_0)$ this yields $2 = \frac 1 2 a_2$ so $a_2 = 4$. If we generalize the move for $n = 0$ and for any $m$ we can write $a_m + a_m = \frac 1 2 (a_{2m} + a_0)$ and we have $2a_m = \frac 1 2 a_{2m}$ which we can simplify to $a_{2m} = 4a_m$. The final thing we might do is to try $m = 2, n = 1$ which allows us to find $a_3$. We write as follows $a_3 + a_1 = \frac 1 2 (a_4 + a_2)$. We know that $a_4 = 4a_2 = 16$ and $4a_2 = 4$. So we have that $a_3 + 1 = \frac 1 2 (16+4) = 10$, thus $a_3 = 9$. The pattern being to merge that for any $n = 1,2,3...$ the result is $a_n = n^2$ and therefore $a_{1995} = {1995}^2$ 
 
 Time to get our hands dirty [[problems and exercises]]
+
+### 2.3 Methods of argument
+
+A problem has an investigation phase and then a proposed solution or argument as Zeitz writes. In this subsection we hear about some methods of argumenting that is **deduction**, **contraction** and **mathematical induction**. Deduction is the establishment of an argument by logically deriving a conclusion from a premise or chain of premises. 
+
+*If, P, Then Q, P therefore Q* is a common structure for a logical argument which might ba called modus ponens. Mathematical proofs are exercises in logic which has to follow strict rules to be valid. 
+
+Now let's see a couple of examples. From example 2.3.1 in the book we want to show that $b^2 + b + 1 = a^2$ has no positive integer solutions. 
+
+Getting our hands dirty we can try to plot in some numbers. Let's assume $b = 5$, then we have that $5^2 + 5 + 1 = a^2$. Expanding that we have $31 = a^2$ which is $\sqrt {31} = a$ thus we have already proved this claim to be wrong, effectively using proof by contradiction. 
+
+Another example 2.3.3 sounds like the following if $a,b,c,d,e$ are real numbers such that the equation $ax^2 + (c +b)x + (e+d) = 0$ has real roots greater than 1, show that the equation $ax^4 + bx^3 + cx^2 + dx + e = 0$ has at least one real root. 
+
+The proof by contradiction is interesting as you begin by asking the question *What happens if we negate the conclusion? Will we have something that we can work with easily?* - **anything** that furthers the investigation is worth doing. 
+
+For example consider that you say data-driven businesses do not perform better than peers who don't use data. When i read this i think, that might actually be true. Companies i think can do fine without data and i believe it's perhaps been to some extend overhyped. What about deep work and contemplation. What about thinking for ourselves and taking action instead of all the analysis and looking at numbers. 
+
+I think there atleast needs to be some balance between taking action and actually relying on gut instincts and using data/AI. I've experienced this myself. 
+
+### 2.4 Other important strategies
+
+**Draw a picture** or sketching is one of the ways in which we can investigate and understand a problem. Remember that we should have an open-mind and think creatively. Drawing a picture can help with that. 
