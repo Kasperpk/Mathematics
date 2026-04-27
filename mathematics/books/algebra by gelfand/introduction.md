@@ -1,14 +1,34 @@
 A book about algebra is a one i need to advance my mathematical thinking. It begins with some introduction to basic arithmetic which is very convinient in our decimal system that we know today. 
 
-The first problem that we encounter is the following. Several digits "8" are written and some "+" signs are inserted to get the sum 1000. Figure out how it's done. 
-
-We can write 888 + 88 + 8 + 8 + 8 = 1000 i came about this just by trying to get my hands dirty. 
-
-Multiplication algorithms in the decimal systems are then introduced and the well known stacking method we learned in primary school is presented. 
+Let's start by understanding a few properties that exists when we work with numbers such as doing arithmetic. First the **commutative law**, the **associative law** and the **distributive law**. 
 
 ### The commutative law
+The commutative law states that the order in which we add terms does not change the result. This holds for both addition and multiplication and we can write the general property as
 
-The commutative law states that the order in which we add terms does not change the result. That means we can write $a+b$ just as well as $b+a$, that is $a+b = b+a$. The same is true for multiplicaton as it does not matter if we take four seven times or seven four times and so $ab = ba$.  
+$a+b = b + a$ 
+
+$ab = ba$.  
+
+### The associative law
+The associative law expresses that when we add or multiply numbers the order of the way we do it is not going to matter. Which means $(3+5) + 11$ is the same as $3 + (5+11)$. We can write the general property as 
+
+$(a+b) + c = a + (b + c)$
+
+$(a*b) * c = a * (b * c)$
+
+
+### The distributive law
+
+The distributive law is also for multiplication and addition. It's a rule that describes how we are allowed to work with numbers. 
+
+$(2+3) * 7 = 2 * 7 + 3 * 7 = 35$
+
+It shows that we can add and divide up factors. The general rule is written as
+
+$(a + b) * c = a * c + b * c$
+
+# Letters in algrebra
 
 
 
+ 
