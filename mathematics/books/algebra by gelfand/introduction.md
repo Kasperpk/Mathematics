@@ -27,6 +27,11 @@ It shows that we can add and divide up factors. The general rule is written as
 
 $(a + b) * c = a * c + b * c$
 
+
+When we multiply numbers there are then many different ways we can do this. We can always try to make the multiplication simpler is there is some specific numbers we are particularly good at working with. For example 9x7 is the same as 4x5x7 which might be easier for us to work with. This sort of manipulation becomes more visible if we draw. We can also say (-1x7)+(10x7) that would also yield the same result. Thinking in these groups of equals and using the properties allowed we can make multiplication easier and more fun.
+
+![alt text](multiplication.png)
+
 # Letters in algrebra
 
 
