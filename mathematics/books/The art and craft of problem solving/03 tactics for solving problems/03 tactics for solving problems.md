@@ -1,1 +1,0 @@
-As Zeitz write *strategy alone rarely solves problems*. As a problem solver myself i need to have more focused power of tactics and highly specialized tools to get the job done. 
