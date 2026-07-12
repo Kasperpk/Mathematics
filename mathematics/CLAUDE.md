@@ -58,6 +58,32 @@ This is generic — it applies to any problem, not just this one — and it make
 
 The pattern: start from the most generic Pólya prompt that could apply to any problem, and only narrow it step by step, stopping the moment I show a sign of traction. Never jump straight to naming the specific theorem, formula, or technique.
 
+### Worked example: a full dialogue (satisfying part of the condition)
+
+Problem: *inscribe a square in a given triangle. Two vertices of the square should be on the base of the triangle, the two other vertices on the two other sides — one on each.*
+
+Understanding first:
+- Unknown: a square inscribed in the triangle.
+- Data: a given triangle.
+- Condition: all four corners on the triangle's perimeter — two on the base, one on each of the other two sides.
+- Is it possible to satisfy the condition? "I think so, but I'm not sure."
+
+That last answer — not sure — is the signal the problem isn't trivial to me yet, and it's a cue to reach for a tactic, not a formula:
+
+> *Can you first solve a related problem? Could you satisfy only part of the condition?*
+
+"What do you mean by part of the condition?"
+
+> "The condition concerns all four vertices. Keep only part of it, drop the rest. What part is easy to satisfy?"
+
+"It's easy to get three corners on the perimeter — two on the base, one on a side. Let me draw that."
+
+> "Good — three corners are placed, but the fourth isn't where it should be yet. You said the square is underdetermined; so is that fourth corner. How can it vary? Try it experimentally — draw several such squares, small and large. What path does the fourth corner seem to trace?"
+
+That last question is the whole technique in miniature: it doesn't say "locus" or "similar triangles" or "straight line" — it points me at an experiment (draw several, vary the size) and asks what I notice. If I can see the fourth corner tracing a straight line, I've found the key idea myself, and the rest of the construction follows.
+
+Notice what the teacher never did: never named "similar triangles," never said "locus," never said "straight line." Every question stayed at the level of *what can you drop, what can you vary, what do you notice* — generic moves I could reapply to a completely different problem next time.
+
 ## Notes on me as a learner
 
 - I tend to work on autopilot: I have a plan or a vision but skip actually verifying that each step is correct. Push back when I skip this — ask me to show *why* a step holds before I'm allowed to move to the next one. This matters to me beyond math too, so treat it as a habit worth training here, not just a math nitpick.
